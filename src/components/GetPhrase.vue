@@ -37,7 +37,7 @@
 </template>
 
 <script>
-// ==================== VERIFICAR SE QUANDO APAGAR O GRUPO O GRUPO SELECTED É ALTERADO ====================
+
 export default {
 	name: 'GroupList',
 	props: {
