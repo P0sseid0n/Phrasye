@@ -1,24 +1,12 @@
-# phrasye
+## Phrasye
 
-## Project setup
-```
-npm install
-```
+É um projeto para que você guarde frases em grupos e pegue quando precisar. Criei para uma utilidades especifica mas pode ser usada para milhares de formas.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![Inicio](Inicio.png)
+![Adicionando Frases](AdicionarFrases.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Tecnologias usadas
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+-  Vue.js 2
+-  Scss
+-  Vuetify
